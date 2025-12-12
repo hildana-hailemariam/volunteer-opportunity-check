@@ -230,7 +230,7 @@ h2 {
     color: #2b8cff;
 }
 
-/* CARD STYLING */
+
 .card {
     background: white;
     border-radius: 12px;
@@ -253,7 +253,7 @@ h2 {
     border-radius: 0 0 12px 12px;
 }
 
-/* APPLY BUTTON */
+
 .apply a {
     display: inline-block;
     background: #2b8cff;
